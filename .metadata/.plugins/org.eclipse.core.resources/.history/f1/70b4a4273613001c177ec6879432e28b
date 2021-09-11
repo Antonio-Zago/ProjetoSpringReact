@@ -1,0 +1,10 @@
+package com.devsuperior.dsvendas.service;
+
+import org.springframework.stereotype.Service;
+
+import com.devsuperior.dsvendas.repositories.SellerRepository;
+
+@Service
+public class SellerService {
+	private SellerRepository repository;
+}

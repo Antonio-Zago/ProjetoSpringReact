@@ -1,0 +1,16 @@
+package com.devsuperior.dsvendas.controllers;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.devsuperior.dsvendas.service.SellerService;
+
+@RestController
+@RequestMapping(value = "/sellers")
+public class SellerController {
+	
+	@AutoWired
+	private SellerService service;
+	
+	
+}

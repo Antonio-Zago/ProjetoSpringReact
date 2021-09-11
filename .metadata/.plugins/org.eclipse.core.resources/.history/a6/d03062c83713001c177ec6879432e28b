@@ -1,0 +1,7 @@
+package com.devsuperior.dsvendas.controllers;
+
+
+@RestController
+public class SellerController {
+	
+}
