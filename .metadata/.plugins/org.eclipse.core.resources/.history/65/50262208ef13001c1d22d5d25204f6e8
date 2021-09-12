@@ -1,0 +1,6 @@
+package com.devsuperior.dsvendas.dto;
+
+public class SaleSumDTO {
+	private String SellerName;
+	private Double sum;
+}

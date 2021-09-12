@@ -13,8 +13,16 @@
     <fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
     <fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
     <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
-    <fullyQualifiedTypeName name="com.devsuperior.dsvendas.repositories.SellerRepository"/>
     <fullyQualifiedTypeName name="com.devsuperior.dsvendas.dto.SellerDTO"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.awt.print.Pageable"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsvendas.repositories.SaleRepository"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsvendas.entities.Sale"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsvendas.dto.SaleDTO"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsvendas.service.SaleService"/>
+    <fullyQualifiedTypeName name="org.springframework.data.domain.Page"/>
+    <fullyQualifiedTypeName name="org.springframework.data.domain.Pageable"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsvendas.repositories.SellerRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
 </qualifiedTypeNameHistroy>
