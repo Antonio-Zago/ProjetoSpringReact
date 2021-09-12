@@ -15,7 +15,6 @@
     <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
     <fullyQualifiedTypeName name="com.devsuperior.dsvendas.dto.SellerDTO"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.awt.print.Pageable"/>
     <fullyQualifiedTypeName name="com.devsuperior.dsvendas.repositories.SaleRepository"/>
     <fullyQualifiedTypeName name="com.devsuperior.dsvendas.entities.Sale"/>
@@ -25,4 +24,7 @@
     <fullyQualifiedTypeName name="org.springframework.data.domain.Pageable"/>
     <fullyQualifiedTypeName name="com.devsuperior.dsvendas.repositories.SellerRepository"/>
     <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dsvendas.entities.Seller"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
